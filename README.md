@@ -20,12 +20,12 @@ pip install -r requirements.txt
 
 ## Usage
 1. Run `run.bat`
-2. On first run, enter your Spotify API credentials (they will be securely stored)
+2. On first run, enter your Spotify API Client ID and Client Secret (they will be securely stored)
 3. Enter artist name and album name
 4. BBCode will be generated and automatically copied to your clipboard
 
 ## Features
-- Secure credential storage using Windows DPAPI
+- Secure key storage using Windows DPAPI
 - Automatic clipboard copying
 - Track duration formatting
 - Total album length calculation
