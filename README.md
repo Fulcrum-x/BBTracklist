@@ -1,6 +1,6 @@
-# Spotify Album BBCode Generator
+# Album BBCode Generator
 
-A tool to generate BBCode formatted album descriptions using Spotify data. The tool securely stores Spotify API credentials using Windows DPAPI encryption.
+A tool to generate BBCode formatted tracklists using the Spotify API. The tool securely stores Spotify API credentials using Windows DPAPI encryption.
 
 ## Requirements
 - Python 3.6+
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 4. BBCode will be generated and automatically copied to your clipboard
 
 ## Features
-- Secure key storage using Windows DPAPI
+- Secure credential storage using Windows DPAPI
 - Automatic clipboard copying
 - Track duration formatting
 - Total album length calculation
