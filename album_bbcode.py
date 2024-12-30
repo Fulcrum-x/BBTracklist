@@ -103,7 +103,6 @@ def generate_album_bbcode(artist_name, album_name):
     bbcode = f"""[size=4][b][artist]{artist_name}[/artist] - {album_name}[/b][/size]
 {formatted_date}
 
-[b]Tracklist:[/b]
 """
     
     # Add tracks with duration
