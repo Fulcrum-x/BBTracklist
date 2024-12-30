@@ -9,6 +9,10 @@ A tool to generate BBCode formatted tracklists using the Spotify API. The tool s
 
 ## Installation
 1. Clone this repository
+```bash
+git clone https://github.com/Fulcrum-x/BBTracklist.git
+```
+
 2. Install requirements:
 ```bash
 pip install -r requirements.txt
